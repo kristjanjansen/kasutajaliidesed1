@@ -1,0 +1,3 @@
+* **Your apps run inside smart containers** , we handle everything critical for production — configuration, orchestration, load balancing, failovers, logging, security, and more.
+
+* **Heroku scales in an instant, both vertically and horizontally.** You can elegantly run everything from tiny hobby projects to enterprise-grade e-commerce handling Black Friday surges.
