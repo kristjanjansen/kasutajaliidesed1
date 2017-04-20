@@ -24,8 +24,12 @@
         justify-content: center;
         text-align: center;
     }
+    .photo p {
+        margin: 0;
+    }
     .photo img {
-        height: 80vh;
+        object-fit: cover;
+        height: 50vh;
         align-self: center
     }
 

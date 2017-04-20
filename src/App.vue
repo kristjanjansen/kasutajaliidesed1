@@ -30,6 +30,10 @@
     import Site from './components/Site.vue'
 
     import marked from 'marked';
+    var renderer = new marked.Renderer();
+    renderer.link = (href, title, text) => {
+        return `<a href="${href}" target="_blank">${text}</a>`
+    }
 
     import slides from '../slides.md'
 
@@ -57,7 +61,7 @@
                         return {
                             slide: slide.trim(),
                             component: 'markup',
-                            content: marked(slide.trim(), {breaks: true})
+                            content: marked(slide.trim(), {renderer, breaks: true})
                         }
                     })
                     .map(slide => {
@@ -95,6 +99,7 @@
             }
         },
         mounted() {
+
             document.addEventListener("keydown", e => {
                 if (e.keyCode == 37) { this.prev() }
                 if (e.keyCode == 39) { this.next() }
@@ -149,7 +154,7 @@
         font-family: Rubik, sans-serif;
         color: white;
         font-size: 0.7em;
-        opacity: 0.5;
+        text-shadow: 1px 1px 0px rgba(0,0,0,0.2); 
     }
 
 </style>

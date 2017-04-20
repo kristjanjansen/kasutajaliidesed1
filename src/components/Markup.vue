@@ -25,15 +25,17 @@
         color: #EBF2F4;
         font-family: Rubik, sans-serif;
         --font-size: 2em;
-        --line-height: 140%;
+        line-height: 130%;
     }
     .content {
         width: 80vw;
         padding-top: 5vh;
     }
     .markup img {
-        height: 60vh;
-        align-self: center
+        height: 100vh;
+    }
+    .markup h3 {
+        margin: 1.5em 0 0 0;
     }
     a { 
         color: #EBF2F4; 
@@ -42,22 +44,28 @@
         word-break: break-all;
         hyphens: auto;
         text-decoration: none;
-        opacity: 0.5;
+        opacity: 0.75;
         border-bottom: 3px solid rgba(255,255,255,0.5);
     }
     strong em {
         color: #FDCA40;
         font-style: normal;
     }
+    em strong {
+        font-style: normal;
+        opacity: 0.3;
+        font-weight: normal;
+    }
     table {
         border-collapse: collapse;
+        width: 100%;
     }
     th {
-        padding:1rem;
+        padding:0.8rem;
     }
     td {
         border-top: 2px solid rgba(255,255,255,0.2);
-        padding:1rem;
+        padding:0.8rem;
     }
     th {
         opacity: 0.3;

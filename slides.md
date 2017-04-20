@@ -2,15 +2,17 @@
 
 MTAT.03.032
 
-Esimene kohtumine
+R 21. aprill, esimene kohtumine
 
 ---
 
-# Slaidid:
+# Kasutajaliideste<br>kavandamine
+
+### Slaidid
 
 http://kristjanjansen.ee/kasutajaliidesed1
 
-# Hastag:
+## Hashtag
 
 \#kasutajaliidesed
 
@@ -36,21 +38,99 @@ http://kristjanjansen.ee/
 |----|----|----|
 |**R 21. aprill**|Visuaalne disain|
 |**R 28. aprill**|Interaktsioonidisain|
-|**29.mai - 18.mai**|**_Kodutöö_**|
+|**_29.mai - 18.mai_**|**_Kodutöö_**|
 |**R 19. mai**|Disaineri tööprotsess|
 |**R 26. mai**|Kasutajaliideste tulevik|
 
 ---
-# Täna räägime
 
-### Disaini ehitusplokid
+# Kursuse hinne
 
-Tekst
-Ikoonid
-Värvid
-Fotod
-Illustratsioonid
-K
+Kolm kohalkäimist on kohustuslik
+
+Kodutöö annab maksimaalselt 100 punkti
+
+Neli kohalkäimist annab 20 punkti lisaks
+
+Ainest saab läbi vähemalt 50 punktiga
+
+---
+
+# Kodutöö
+
+Väikesed töögrupid, 2-3-4 liiget
+
+Töö esitamine kirjalik, raporti vormis
+
+Teema anname ja grupid moodustame järgmisel kohtumisel
+
+---
+
+# Tänane kava
+
+|||
+|----|----|----|
+|**10:15**|Loeng suures saalis, ruum nr 111|1.5 tundi|
+|_**11:45**_|_**Paus**_|_**30 min**_|
+|**12:15**|Praktiline töö eri ruumides|1.5 tundi|
+|_**13:45**_|_**Paus**_|_**15 min**_|
+|**14:00**|Praktiline töö jätkub|1 tund|
+|**15:00**|Päeva kokkuvõte suure saalis|30 min|
+
+---
+
+# Visuaalne disain
+
+---
+
+https://www.youtube.com/watch?v=BibWZJOClgU
+
+---
+
+# Millised on<br>"disaini ehituskivid"?
+
+&nbsp;
+
+---
+
+# Millised on<br>"disaini ehituskivid"?
+
+1. Tekst
+
+2. Ikoonid
+
+3. Värvid
+
+4. Fotod, Illustratsioonid, mustrid
+
+5. Kompositsioon
+
+---
+
+## 1. Tekst
+
+~~Tüpograafia teooria~~
+
+Kuidas kirju **valida**
+
+Kuidas kirju **kasutada**
+
+Kuidas mitut kirja **kombineerida**
+
+---
+
+![](http://imjustcreative.com/wp-content/uploads/2013/09/arial-vs-helvetica.gif)
+
+---
+
+##### https://fonts.google.com/
+
+---
+
+# Kirjade kasutamine
+
+Praktiline ülesanne
+
 
 ---
 
@@ -58,11 +138,35 @@ K
 
 ---
 
-[[typo2 text4.md]]
+[[typo text2.md]]
 
 ---
 
-# 🍌🍉🍇😢😭😓👹👺💩<br>👻👾🎃😹😻🙀🌚🌝🌞<br>🙏👍👎👗👙👖📖📰📝<br>📟📠📺🎺🎸🎻🏐🏉🎱<br>💗💖💝🐉🐲🌵🚝🚄🚅
+[[typo text3.md]]
+
+---
+
+# Kirjade kombineerimine
+
+---
+
+![](images/typeconnection.png)
+
+---
+
+![](images/typespiration.png)
+
+---
+
+# Veel kirjadest
+
+### Kui sul pole veebiprojekt
+
+https://www.fontsquirrel.com/
+
+### Kõik mida sa kunagi oled tahtnud kirjadest teada
+
+https://www.typewolf.com/resources
 
 ---
 
@@ -84,14 +188,6 @@ https://vimeo.com/61556918
 
 ### Kebab menu
 
-
-
-## Tekst / Kiri / Tüpograafia
-
-~~Teooria~~
-Kuidas kirju valida
-Kuidas kirju kujundada
-Kuidas kirju kombineerida
 
 ---
 
@@ -130,6 +226,11 @@ https://www.nngroup.com/articles/how-little-do-users-read/
 > Write better words, not less words. Write for your friend. Edit relentlessly. Forget about Jakob’s 20% rule. Make your writing 100% worth reading, and people will read it.
 
 https://signalvnoise.com/posts/3633-on-writing-interfaces-well
+
+---
+
+
+# 🍌🍉🍇😢😭😓👹👺💩<br>👻👾🎃😹😻🙀🌚🌝🌞<br>🙏👍👎👗👙👖📖📰📝<br>📟📠📺🎺🎸🎻🏐🏉🎱<br>💗💖💝🐉🐲🌵🚝🚄🚅
 
 ---
 
@@ -408,3 +509,8 @@ http://carbure.co/
 ---
 
 http://acko.net/
+
+
+**Github:**
+
+http://github.com/kristjanjansen/kasutajaliidesed1

@@ -29,5 +29,9 @@
         font-size: 2em;
         line-height: 140%;
     }
+    .heading a {
+        text-decoration: none;
+        font-size: 1em !important;
+    }
 
 </style>
