@@ -189,3 +189,9 @@ http://www.seguetech.com/whitespace-web-design/
 
 https://alistapart.com/article/whitespace
 
+---
+
+# Kodune ülesanne
+
+http://jgthms.com/web-design-in-4-minutes/
+

@@ -12,7 +12,7 @@ R 21. aprill, esimene kohtumine
 
 http://kristjanjansen.ee/kasutajaliidesed1
 
-## Hashtag
+### Hashtag
 
 \#kasutajaliidesed
 
@@ -95,19 +95,23 @@ https://www.youtube.com/watch?v=BibWZJOClgU
 
 # Millised on<br>"disaini ehituskivid"?
 
-1. Tekst
+1. Kirjad
 
 2. Ikoonid
 
 3. Värvid
 
-4. Fotod, Illustratsioonid, mustrid
+4. Fotod, illustratsioonid, mustrid jne
 
 5. Kompositsioon
 
 ---
 
-## 1. Tekst
+# 1. Kirjad
+
+---
+
+## Kirjad
 
 ~~Tüpograafia teooria~~
 
@@ -127,10 +131,13 @@ Kuidas mitut kirja **kombineerida**
 
 ---
 
-# Kirjade kasutamine
+# Kirjad
+
+### Kirjade kasutamine
 
 Praktiline ülesanne
 
+http://kristjanjansen.ee/kasutajaliidesed1
 
 ---
 
@@ -146,7 +153,13 @@ Praktiline ülesanne
 
 ---
 
-# Kirjade kombineerimine
+# Kirjad
+
+### Kirjade kombineerimine
+
+http://www.typeconnection.com
+
+http://typespiration.com/
 
 ---
 
@@ -158,58 +171,9 @@ Praktiline ülesanne
 
 ---
 
-# Veel kirjadest
+# Kirjad
 
-### Kui sul pole veebiprojekt
-
-https://www.fontsquirrel.com/
-
-### Kõik mida sa kunagi oled tahtnud kirjadest teada
-
-https://www.typewolf.com/resources
-
----
-
-# ☰
-
-### Hamburger menu
-
----
-
-# 1981 Norm Cox / Xerox PARC
-
-https://vimeo.com/61556918
-
-21:10
-
----
-
-# ⋮
-
-### Kebab menu
-
-
----
-
-[[typo ./text1.md]]
-
----
-
-[[typo ./text2.md]]
-
----
-
-[[typo ./text3.md]]
-
----
-
-# Kodune ülesanne
-
-http://jgthms.com/web-design-in-4-minutes/
-
----
-
-## Kas keegi üldse loeb tekste?
+### Kuid kas keegi üldse loeb tekste?
 
 > People do not read. People rarely read Web pages word by word; instead, they scan the page, picking out individual words and sentences.
 
@@ -221,7 +185,9 @@ https://www.nngroup.com/articles/how-little-do-users-read/
 
 ---
 
-## Aga siiski...
+# Kirjad
+
+### Aga samas
 
 > Write better words, not less words. Write for your friend. Edit relentlessly. Forget about Jakob’s 20% rule. Make your writing 100% worth reading, and people will read it.
 
@@ -229,22 +195,31 @@ https://signalvnoise.com/posts/3633-on-writing-interfaces-well
 
 ---
 
-
-# 🍌🍉🍇😢😭😓👹👺💩<br>👻👾🎃😹😻🙀🌚🌝🌞<br>🙏👍👎👗👙👖📖📰📝<br>📟📠📺🎺🎸🎻🏐🏉🎱<br>💗💖💝🐉🐲🌵🚝🚄🚅
-
----
-
-# Ikoonid
-
-Miks?
-
-"Tänapäeva koopamaalid"
+# 2. Ikoonid
 
 ---
 
 # Ikoonid
 
-Stiilid
+### Miks?
+
+&nbsp;
+
+---
+
+#### http://getbootstrap.com/components/
+
+---
+
+#### http://streamlineicons.com
+
+---
+
+# Ikoonid
+
+### Stiilid
+
+&nbsp;
 
 ---
 
@@ -272,9 +247,11 @@ Stiilid
 
 ---
 
-## Ikoonid
+# Ikoonid
 
-Konstrueerimine
+### Konstrueerimine
+
+&nbsp;
 
 ---
 
@@ -290,9 +267,21 @@ Konstrueerimine
 
 ---
 
-## Ikoonid
+# Ikoonid
 
-Metafoor
+### Praktiline kasutus
+
+Bitmapid → Spraidid → Ikoonifondid → SVG → SVG spraidid
+
+https://icomoon.io/
+
+---
+
+# Ikoonid
+
+### Kas metafoor alati töötab?
+
+&nbsp;
 
 ---
 
@@ -304,31 +293,21 @@ Metafoor
 
 ---
 
-![](images/save0.png)
-
----
-
 # Ikoonid
 
-Kust neid saada?
+💾 Praktiline ülesanne
+
+### Twitter:
+
+\#kasutajaliidesed
 
 ---
 
-http://getbootstrap.com/components/
+# Emoji 
 
 ---
 
-http://streamlineicons.com
-
----
-
-https://icomoon.io/
-
----
-
-# Ikoonid
-
-Emoji 
+# 🍌🍉🍇😢😭😓👹👺💩<br>👻👾🎃😹😻🙀🌚🌝🌞<br>🙏👍👎👗👙👖📖📰📝<br>📟📠📺🎺🎸🎻🏐🏉🎱<br>💗💖💝🐉🐲🌵🚝🚄🚅
 
 ---
 
@@ -352,7 +331,7 @@ Emoji
 
 ---
 
-# Värvid
+# 3. Värvid
 
 ---
 
@@ -371,19 +350,11 @@ Emoji
 
 ---
 
-[[color #ed1c16]]
+[[color #ed1c16,#cd201f]]
 
 ---
 
-[[color #00704a]]
-
----
-
-[[color #3b5998]]
-
----
-
-[[color #00aff0]]
+[[color #3b5998,#00aff0]]
 
 ---
 
@@ -393,7 +364,21 @@ Emoji
 
 # Värvid
 
-Süsteem
+### Kombineerimine
+
+Monochromatic
+
+Analogous
+
+Complementary
+
+jpm
+
+---
+
+[[wheel2 ]]
+
+---
 
 https://www.youtube.com/watch?v=A6M2cNlCwRc
 
@@ -401,7 +386,9 @@ https://www.youtube.com/watch?v=A6M2cNlCwRc
 
 # Värvid
 
-Valik
+### Kuidas neid _tegelikult_ valida?
+
+&nbsp;
 
 ---
 
@@ -409,21 +396,21 @@ Valik
 
 ---
 
-https://coolors.co/app
+#### https://coolors.co/app
 
 ---
 
-https://dribbble.com/colors/3080e8
+### https://dribbble.com/colors/3080e8
 
 ---
 
 # Värvid
 
-Värvipimedus
+### Värvipimedus
 
 **_7%_** meestel / **_0.5%_** naistel
 
-http://www.colourblindawareness.org/colour-blindness/
+https://www.smashingmagazine.com/2016/06/improving-ux-for-color-blind-users/
 
 ---
 
@@ -431,17 +418,28 @@ http://www.colourblindawareness.org/colour-blindness/
 
 ---
 
-# Kompositsioon
+![](images/blind.png)
 
 ---
 
-https://www.youtube.com/watch?v=a5KYlHNKQB8&index=61&list=WL
+#### https://material.io/color/#!/
 
 ---
 
-# Foto
+# Värvid
 
-Stock
+### Lisaks
+
+* https://www.smashingmagazine.com/tag/colors/
+* https://github.com/Siddharth11/Colorful
+
+---
+
+# Fotod
+
+### Enne: Stock
+
+&nbsp;
 
 ---
 
@@ -465,24 +463,29 @@ Stock
 
 ---
 
-# Foto
+# Fotod
 
-Hipsterstock
+### Nüüd: Hipsterstock
 
----
-
-https://unsplash.com
-https://www.pexels.com
+&nbsp;
 
 ---
 
-https://zoommyapp.com
+#### https://zoommyapp.com
 
 ---
 
-# Illustratsioon
+# Fotod
 
-...
+### Lisaks ka palju muud:
+
+Mustrid
+
+Illustratsioon
+
+Infograafika
+
+Interaktiivsed elemendid
 
 ---
 
@@ -490,27 +493,57 @@ https://www.heroku.com
 
 ---
 
-# Patterns
-
-...
-
----
-
-http://www.sociali.st
-
----
-
 http://qrohlf.com/trianglify
-
----
-
-http://carbure.co/
 
 ---
 
 http://acko.net/
 
+---
 
-**Github:**
+# 5. Kompositsioon
 
-http://github.com/kristjanjansen/kasutajaliidesed1
+---
+
+https://www.youtube.com/watch?v=a5KYlHNKQB8&index=61&list=WL
+
+---
+
+# Kompositsioon
+
+Proximity
+
+White space
+
+Alignment
+
+Contrast
+
+Repetition
+
+---
+
+# Kompositsioon
+
+### Praktiline ülesanne
+
+\#kasutajaliidesed
+
+---
+
+[[typo2 ]]
+
+---
+
+# Ja nüüd
+
+### Jaguneme rühmadesse!
+
+|||
+|----|----|----|
+|~~**10:15**~~|~~Loeng suures saalis, ruum nr 111~~|~~1.5 tundi~~|
+|_**11:45**_|_**Paus**_|_**30 min**_|
+|**12:15**|Praktiline töö eri ruumides|1.5 tundi|
+|_**13:45**_|_**Paus**_|_**15 min**_|
+|**14:00**|Praktiline töö jätkub|1 tund|
+|**15:00**|Päeva kokkuvõte suure saalis|30 min|

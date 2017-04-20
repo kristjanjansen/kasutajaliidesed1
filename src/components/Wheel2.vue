@@ -12,8 +12,8 @@
         <div class="wheel2__right">
             <div class="wheel2__controls">
                 <div>Primary hue: <b>{{ currentAngle }} deg</b><br><input type="range" v-model="currentAngle" max="360"></div>
-                <div>Secondary hue offset: <b>{{ offset }} deg</b><br><input type="range" v-model="offset" max="360" step="15"></div>
                 <div>Secondary color lightness: <b>{{ l }}%</b><br><input type="range" v-model="l" min="25" max="50"></div>
+                <div>Secondary hue offset: <b>{{ offset }} deg</b><br><input type="range" v-model="offset" min="-180" max="180" step="7.5"></div>
             </div>
             <svg width="300" height="300" style="padding-left: 0.3em">
                 <g transform="translate(150,150)">
@@ -83,10 +83,10 @@
         props: {
             value: { default: '' }
         },
-        data: () => ({ currentAngle: 0, radius: 110, offset: 0, l: 25 }),
+        data: () => ({ currentAngle: 0, radius: 110, offset: 0, l: 45 }),
         computed: {
             currentAngle2() {
-                return this.currentAngle - this.offset
+                return parseInt(this.currentAngle) + parseInt(this.offset)
             }
         },
         methods: {
