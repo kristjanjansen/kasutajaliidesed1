@@ -143,7 +143,7 @@
         align-items: stretch;
     }
     .wheel2__right {
-        width: 30vw;
+        width: 35vw;
         background: #222;
         color: #EBF2F4;
         font-family: Rubik, sans-serif;
@@ -151,7 +151,7 @@
         line-height: 140%;
     }
     .wheel2__left {
-        width: 70vw;
+        width: 65vw;
         display: flex;
         align-items: center;
         justify-content: center;

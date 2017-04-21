@@ -32,6 +32,10 @@
     .heading a {
         text-decoration: none;
         font-size: 1em !important;
+        overflow-wrap: break-word;
+        word-wrap: break-word;
+        word-break: break-all;
+        hyphens: auto;
     }
 
 </style>

@@ -1,20 +1,20 @@
 # Kasutajaliideste<br>kavandamine
 
-MTAT.03.032
+### MTAT.03.032
 
 R 21. aprill, esimene kohtumine
 
 ---
 
-# Kasutajaliideste<br>kavandamine
+# Slaidid
 
-### Slaidid
+### http://kristjanjansen.ee/kasutajaliidesed1
 
-http://kristjanjansen.ee/kasutajaliidesed1
+# Hashtag
 
-### Hashtag
+### \#kasutajaliidesed
 
-\#kasutajaliidesed
+&nbsp;
 
 ---
 
@@ -38,7 +38,7 @@ http://kristjanjansen.ee/
 |----|----|----|
 |**R 21. aprill**|Visuaalne disain|
 |**R 28. aprill**|Interaktsioonidisain|
-|**_29.mai - 18.mai_**|**_Kodutöö_**|
+|**_K 17.mai 12:00_**|**_Kodutöö esitamine_**|
 |**R 19. mai**|Disaineri tööprotsess|
 |**R 26. mai**|Kasutajaliideste tulevik|
 
@@ -46,11 +46,11 @@ http://kristjanjansen.ee/
 
 # Kursuse hinne
 
-Kolm kohalkäimist on kohustuslik
+**Kolm kohalkäimist** on kohustuslik
 
-Kodutöö annab maksimaalselt 100 punkti
+**Kodutöö** annab maksimaalselt 100 punkti
 
-Neli kohalkäimist annab 20 punkti lisaks
+**Neli kohalkäimist** annab 20 punkti lisaks
 
 Ainest saab läbi vähemalt 50 punktiga
 
@@ -74,8 +74,12 @@ Teema anname ja grupid moodustame järgmisel kohtumisel
 |_**11:45**_|_**Paus**_|_**30 min**_|
 |**12:15**|Praktiline töö eri ruumides|1.5 tundi|
 |_**13:45**_|_**Paus**_|_**15 min**_|
-|**14:00**|Praktiline töö jätkub|1 tund|
+|**14:00**|Praktilise töö esitamine eri ruumides|1 tund|
 |**15:00**|Päeva kokkuvõte suure saalis|30 min|
+
+---
+
+# Paber ja pliiats
 
 ---
 
@@ -87,13 +91,13 @@ https://www.youtube.com/watch?v=BibWZJOClgU
 
 ---
 
-# Millised on<br>"disaini ehituskivid"?
+# Millised on visuaalse disaini "ehituskivid"?
 
 &nbsp;
 
 ---
 
-# Millised on<br>"disaini ehituskivid"?
+# Millised on visuaalse disaini "ehituskivid"?
 
 1. Kirjad
 
@@ -131,11 +135,7 @@ Kuidas mitut kirja **kombineerida**
 
 ---
 
-# Kirjad
-
-### Kirjade kasutamine
-
-Praktiline ülesanne
+# Praktiline ülesanne
 
 http://kristjanjansen.ee/kasutajaliidesed1
 
@@ -199,30 +199,6 @@ https://signalvnoise.com/posts/3633-on-writing-interfaces-well
 
 ---
 
-# Ikoonid
-
-### Miks?
-
-&nbsp;
-
----
-
-#### http://getbootstrap.com/components/
-
----
-
-#### http://streamlineicons.com
-
----
-
-# Ikoonid
-
-### Stiilid
-
-&nbsp;
-
----
-
 ![](images/icon1.png)
 
 ---
@@ -249,6 +225,14 @@ https://signalvnoise.com/posts/3633-on-writing-interfaces-well
 
 # Ikoonid
 
+### Miks?
+
+&nbsp;
+
+---
+
+# Ikoonid
+
 ### Konstrueerimine
 
 &nbsp;
@@ -269,7 +253,17 @@ https://signalvnoise.com/posts/3633-on-writing-interfaces-well
 
 # Ikoonid
 
-### Praktiline kasutus
+### Enne ja nüüd
+
+http://getbootstrap.com/components/
+
+http://streamlineicons.com
+
+---
+
+# Ikoonid
+
+### Formaadid
 
 Bitmapid → Spraidid → Ikoonifondid → SVG → SVG spraidid
 
@@ -293,17 +287,17 @@ https://icomoon.io/
 
 ---
 
-# Ikoonid
+# Praktiline ülesanne
 
-💾 Praktiline ülesanne
+### \#kasutajaliidesed
 
-### Twitter:
-
-\#kasutajaliidesed
+&nbsp;
 
 ---
 
 # Emoji 
+
+&nbsp;
 
 ---
 
@@ -328,6 +322,14 @@ https://icomoon.io/
 ---
 
 ![](http://www.naturphilosophie.co.uk/wp-content/uploads/2015/11/Cortana_Computer_Emotions.gif)
+
+---
+
+# Ikoonid
+
+### Lisaks
+
+http://iconutopia.com/files/Icon-Design-Guide-by-IconUtopia.pdf
 
 ---
 
@@ -372,8 +374,6 @@ Analogous
 
 Complementary
 
-jpm
-
 ---
 
 [[wheel2 ]]
@@ -410,8 +410,6 @@ https://www.youtube.com/watch?v=A6M2cNlCwRc
 
 **_7%_** meestel / **_0.5%_** naistel
 
-https://www.smashingmagazine.com/2016/06/improving-ux-for-color-blind-users/
-
 ---
 
 ![](https://www.smashingmagazine.com/wp-content/uploads/2017/01/24-preview-opt.png)
@@ -422,22 +420,29 @@ https://www.smashingmagazine.com/2016/06/improving-ux-for-color-blind-users/
 
 ---
 
-#### https://material.io/color/#!/
-
----
-
 # Värvid
+
+### Värvipimeduse ja vaegnägemise testid
+
+https://material.io/color/#!/
+
+https://www.smashingmagazine.com/2016/06/improving-ux-for-color-blind-users/#tooling
 
 ### Lisaks
 
-* https://www.smashingmagazine.com/tag/colors/
-* https://github.com/Siddharth11/Colorful
+https://www.smashingmagazine.com/tag/colors/
+
+https://github.com/Siddharth11/Colorful
+
+---
+
+# 4. Fotod
 
 ---
 
 # Fotod
 
-### Enne: Stock
+### Enne: Stock photo
 
 &nbsp;
 
@@ -465,7 +470,7 @@ https://www.smashingmagazine.com/2016/06/improving-ux-for-color-blind-users/
 
 # Fotod
 
-### Nüüd: Hipsterstock
+### Nüüd: Hipster stock photo
 
 &nbsp;
 
@@ -477,7 +482,7 @@ https://www.smashingmagazine.com/2016/06/improving-ux-for-color-blind-users/
 
 # Fotod
 
-### Lisaks ka palju muud:
+### Muu illustratiivne materjal
 
 Mustrid
 
@@ -489,15 +494,15 @@ Interaktiivsed elemendid
 
 ---
 
-https://www.heroku.com
+#### https://www.heroku.com
 
 ---
 
-http://qrohlf.com/trianglify
+#### http://qrohlf.com/trianglify
 
 ---
 
-http://acko.net/
+#### http://acko.net/
 
 ---
 
@@ -511,39 +516,30 @@ https://www.youtube.com/watch?v=a5KYlHNKQB8&index=61&list=WL
 
 # Kompositsioon
 
-Proximity
-
-White space
-
-Alignment
-
-Contrast
-
-Repetition
+||
+|----|----|
+|**Proximity**|Elementide lähedus|
+|**White space**|Vaba ruum|
+|**Alignment**|Joondamine|
+|**Contrast**|Kontrast|
+|**Repetition / Concistency**|Ühtsus|
 
 ---
 
-# Kompositsioon
+# Praktiline ülesanne
 
-### Praktiline ülesanne
+### \#kasutajaliidesed
 
-\#kasutajaliidesed
+&nbsp;
 
 ---
 
-[[typo2 ]]
+[[typo2 text4.md]]
 
 ---
 
 # Ja nüüd
 
-### Jaguneme rühmadesse!
+### Jaguneme rühmadesse
 
-|||
-|----|----|----|
-|~~**10:15**~~|~~Loeng suures saalis, ruum nr 111~~|~~1.5 tundi~~|
-|_**11:45**_|_**Paus**_|_**30 min**_|
-|**12:15**|Praktiline töö eri ruumides|1.5 tundi|
-|_**13:45**_|_**Paus**_|_**15 min**_|
-|**14:00**|Praktiline töö jätkub|1 tund|
-|**15:00**|Päeva kokkuvõte suure saalis|30 min|
+&nbsp;
