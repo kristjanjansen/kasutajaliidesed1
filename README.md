@@ -1,6 +1,6 @@
 ### About
 
-Interactive slides for UX course in Tartu University CS department
+Interactive slides for UX/UI course in Tartu University CS department
 
 **Live slides:** http://kristjanjansen.ee/kasutajaliidesed1
 
