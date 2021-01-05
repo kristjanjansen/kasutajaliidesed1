@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "animejs": "^2.0.2",
-    "axios": "^0.15.3",
+    "axios": "^0.21.1",
     "d3-scale": "^1.0.5",
     "d3-shape": "^1.0.6",
     "marked": "^0.3.6",
